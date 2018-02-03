@@ -31,6 +31,8 @@ header{
 }
 
 .header-button {
+	display: inline-block;
+	text-decoration: none;
 	outline: none;
 	cursor: pointer;
 	box-shadow: 10px 17px 34px 6px rgba(18, 61, 145, 0.83);
@@ -150,6 +152,7 @@ footer {
 }
 
 .footer-button {
+	text-decoration: none;
 	outline: none;
 	border: 1px solid #ffffff;
 	cursor: pointer;
